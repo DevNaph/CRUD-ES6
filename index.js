@@ -6,6 +6,6 @@ showButton.addEventListener('click', () => {
     dialog.showModal();
 });
 
-closeButton.addEventListener('click', () => {
+close.addEventListener('click', () => {
     dialog.close();
 })
